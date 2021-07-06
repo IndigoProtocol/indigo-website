@@ -15,9 +15,9 @@
               <img src="/images/team/eric.jpeg" alt="" />
             </div>
             <div class="team-info">
-              <h5>Eric Coley</h5>
+              <h5 class="mb-0">Eric Coley</h5>
               <small>CEO, Co-Founder</small>
-              <p>
+              <p class="mt-2">
                 Brings 13+yrs in the enterprise technology space. In 2012
                 launched a consulting agency focused on guiding businesses into
                 scalable and hosted technology solutions of all kinds. Extending
@@ -55,9 +55,9 @@
               <img src="/images/team/dewayne.jpeg" alt="" />
             </div>
             <div class="team-info">
-              <h5>Dewayne Cameron</h5>
+              <h5 class="mb-0">Dewayne Cameron</h5>
               <small>CIO, Co-Founder</small>
-              <p>
+              <p class="mt-2">
                 With four years of experience in management consulting and
                 software implementations where he led product development, data
                 analysis, and strategic transformation projects in public sector
@@ -98,9 +98,9 @@
               <img src="/images/team/cody.jpg" alt="" />
             </div>
             <div class="team-info">
-              <h5>Cody Butz</h5>
+              <h5 class="mb-0">Cody Butz</h5>
               <small>CTO</small>
-              <p>
+              <p class="mt-2">
                 With over 8 years in the web and mobile development field, Cody
                 turned his hobby and passion for technology into a career. In
                 his free time, Cody loves to go out boating and having a great
@@ -134,9 +134,9 @@
               <img src="/images/team/hai.jpeg" alt="" />
             </div>
             <div class="team-info">
-              <h5>Hai Nguyen Quang</h5>
+              <h5 class="mb-0">Hai Nguyen Quang</h5>
               <small>Core Developer</small>
-              <p>
+              <p class="mt-2">
                 A passionate system architect and software engineer who is
                 always desperate to learn more. Specialized in functional
                 programming, AI & Blockchain technologies, Hai has been the Head
@@ -164,9 +164,9 @@
               <img src="/images/team/daniel.jpg" alt="" />
             </div>
             <div class="team-info">
-              <h5>Daniel Short</h5>
+              <h5 class="mb-0">Daniel Short</h5>
               <small>Community Manager</small>
-              <p>
+              <p class="mt-2">
                 With over 4 years of experience in sales and marketing of
                 complex customer solutions in real estate, lending,
                 cybersecurity, and data storage, Daniel has pursued a vision of

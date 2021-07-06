@@ -2,10 +2,10 @@
   <div>
     <AboutIndigoSection />
     <TriangleTransition left="#261e64" right="#100532" />
-    <WhitepaperSection v-if="false" />
-    <TriangleTransition v-if="false" left="#100532" right="#261e64" />
-    <TokenSection v-if="false" />
-    <TriangleTransition v-if="false" left="#261e64" right="#100532" />
+    <WhitepaperSection />
+    <TriangleTransition left="#100532" right="#261e64" />
+    <TokenSection />
+    <TriangleTransition left="#261e64" right="#100532" />
     <FaqSection />
     <TriangleTransition left="#100532" right="#261e64" />
     <TeamSection />

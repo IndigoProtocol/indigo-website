@@ -2,21 +2,19 @@
   <section id="whitepaper" class="light-indigo-section py-5">
     <div class="container">
       <div class="row align-items-center">
-        <div class="col-12 col-lg-6">
+        <div class="col-12 col-lg-5">
           <img
             src="/images/whitepaper.svg"
             alt="Whitepaper Section"
             class="w-100"
           />
         </div>
-        <div class="col-12 col-lg-6 text-center">
+        <div class="col-12 col-lg-7 text-center">
           <h2>Whitepaper & Tech Docs</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate
-            hic itaque labore reiciendis voluptatum. Adipisci aut dignissimos
-            distinctio eius, esse et illum iure libero.
+            Read more about the Indigo Protocol and how it fits in the DeFi Ecosystem of the Cardano blockchain. Tech docs are coming soon.
           </p>
-          <a href="#" class="btn btn-outline-light"> Download </a>
+          <a href="/docs/whitepaper.pdf?v=0.1" class="btn btn-outline-light" target="_blank"> Download Whitepaper</a>
         </div>
       </div>
     </div>

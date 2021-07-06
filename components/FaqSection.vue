@@ -70,10 +70,6 @@ export default {
           answer:
             'iAssets are blockchain tokens that behave like synthetic versions of real-world assets by reflecting the exchange prices on-chain. They give traders the price exposure to real assets while enabling fractional ownership, open access and censorship resistance as any other cryptocurrency.',
         },
-        {
-          question: 'What are the tokenomics of $INDY?',
-          answer: 'The tokenomics are under research. It will be published in a Medium article soon.',
-        },
       ],
     }
   },
