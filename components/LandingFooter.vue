@@ -37,7 +37,7 @@
             </a>
           </div>
           <div class="col-12 col-md-6 pt-3 pt-md-0 text-center text-lg-right">
-            <p class="mb-0">&copy; copyright 2021 by Indigo Labs</p>
+            <p class="mb-0">&copy; copyright 2021 by Indigo Laboratories</p>
           </div>
         </div>
       </div>
