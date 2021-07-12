@@ -15,7 +15,7 @@
               <font-awesome-icon class="fa-fw" :icon="['fab', 'twitter']" />
             </a>
             <a
-              href="https://medium.com/@Indigo_protocol"
+              href="https://medium.com/@Indigoprotocol1"
               class="footer-link"
               target="_blank"
             >
