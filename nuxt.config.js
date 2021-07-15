@@ -78,7 +78,7 @@ export default {
         'faEnvelope',
         'faBars',
       ],
-      brands: ['faTwitter', 'faMedium', 'faDiscord', 'faLinkedinIn'],
+      brands: ['faTwitter', 'faMedium', 'faDiscord', 'faLinkedinIn', 'faTelegramPlane'],
     },
   },
 

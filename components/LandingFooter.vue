@@ -29,6 +29,13 @@
               <font-awesome-icon class="fa-fw" :icon="['fab', 'discord']" />
             </a>
             <a
+              href="https://t.me/indigo_protocol"
+              class="footer-link"
+              target="_blank"
+            >
+              <font-awesome-icon class="fa-fw" :icon="['fab', 'telegram-plane']" />
+            </a>
+            <a
               href="mailto:info@indigoprotocol.io"
               class="footer-link"
               target="_blank"
