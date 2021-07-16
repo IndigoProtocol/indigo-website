@@ -36,6 +36,13 @@
               <font-awesome-icon class="fa-fw" :icon="['fab', 'telegram-plane']" />
             </a>
             <a
+              href="https://www.reddit.com/r/indigoprotocol/"
+              class="footer-link"
+              target="_blank"
+            >
+              <font-awesome-icon class="fa-fw" :icon="['fab', 'reddit-alien']" />
+            </a>
+            <a
               href="mailto:info@indigoprotocol.io"
               class="footer-link"
               target="_blank"
