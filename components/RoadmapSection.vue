@@ -8,9 +8,9 @@
           <div class="content-wrapper">
             <div class="line"></div>
             <div class="content">
-              <p><strong>May 2021</strong></p>
-              <p>Web App Design Development</p>
-              <p>Plutus Contract Demo</p>
+              <p><strong>June 2021</strong></p>
+              <p>Whitepaper Development</p>
+              <p>Bug Fixes</p>
             </div>
           </div>
         </li>
@@ -18,9 +18,10 @@
           <div class="content-wrapper">
             <div class="line"></div>
             <div class="content">
-              <p><strong>June 2021</strong></p>
-              <p>Whitepaper Development</p>
-              <p>Bug Fixes</p>
+              <p><strong>July 2021</strong></p>
+              <p>Whitepaper Release</p>
+              <p>Begin 3rd-party integrations</p>
+              <p>Partnership Announcements</p>
             </div>
           </div>
         </li>
@@ -28,11 +29,9 @@
           <div class="content-wrapper">
             <div class="line"></div>
             <div class="content">
-              <p><strong>July 2021</strong></p>
-              <p>Whitepaper Release</p>
-              <p>Begin 3rd-party integrations</p>
-              <p>Partnership Announcements</p>
-              <p>Continue Smart Contract Development</p>
+              <p><strong>August 2021</strong></p>
+              <p>Catalyst Fund 6 Entry</p>
+              <p>Complete 3rd-party integrations</p>
             </div>
           </div>
         </li>
@@ -40,9 +39,7 @@
           <div class="content-wrapper">
             <div class="line"></div>
             <div class="content">
-              <p><strong>August 2021</strong></p>
-              <p>Catalyst Fund 6 Entry</p>
-              <p>Complete 3rd-party integrations</p>
+              <p><strong>September 2021</strong></p>
               <p>Code Review & Security Audits</p>
               <p>Testnet Release *</p>
             </div>
@@ -52,14 +49,18 @@
           <div class="content-wrapper">
             <div class="line"></div>
             <div class="content">
-              <p><strong>September 2021</strong></p>
+              <p><strong>October 2021</strong></p>
               <p>Indigo Protocol v1 Mainnet Launch *</p>
             </div>
           </div>
         </li>
       </ul>
-      <p class="text-white-50"><small>* Roadmap items subject to change, based on IOHK development of Plutus.</small></p>
-
+      <p class="text-white-50">
+        <small>
+          * Roadmap items subject to change, based on IOHK development of
+          Plutus.
+        </small>
+      </p>
     </div>
   </section>
 </template>
