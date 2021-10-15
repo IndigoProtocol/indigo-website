@@ -8,20 +8,9 @@
           <div class="content-wrapper">
             <div class="line"></div>
             <div class="content">
-              <p><strong>June 2021</strong></p>
-              <p>Whitepaper Development</p>
-              <p>Bug Fixes</p>
-            </div>
-          </div>
-        </li>
-        <li class="complete">
-          <div class="content-wrapper">
-            <div class="line"></div>
-            <div class="content">
-              <p><strong>July 2021</strong></p>
-              <p>Whitepaper Release</p>
-              <p>Begin 3rd-party integrations</p>
-              <p>Partnership Announcements</p>
+              <p><strong>August 2021</strong></p>
+              <p>Development of Smart Contracts</p>
+              <p>Web App v2 Demo</p>
             </div>
           </div>
         </li>
@@ -29,19 +18,9 @@
           <div class="content-wrapper">
             <div class="line"></div>
             <div class="content">
-              <p><strong>August 2021</strong></p>
-              <p>Catalyst Fund 6 Entry</p>
-              <p>Complete 3rd-party integrations</p>
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="content-wrapper">
-            <div class="line"></div>
-            <div class="content">
               <p><strong>September 2021</strong></p>
-              <p>Code Review & Security Audits</p>
-              <p>Testnet Release *</p>
+              <p>Partnership Announcements</p>
+              <p>Catalyst Fund 6 Entry</p>
             </div>
           </div>
         </li>
@@ -50,6 +29,25 @@
             <div class="line"></div>
             <div class="content">
               <p><strong>October 2021</strong></p>
+              <p>Code Review & Security Audits</p>
+              <p>Integration Development</p>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="content-wrapper">
+            <div class="line"></div>
+            <div class="content">
+              <p><strong>November 2021</strong></p>
+              <p>Indigo Protocol v1 Testnet Launch *</p>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="content-wrapper">
+            <div class="line"></div>
+            <div class="content">
+              <p><strong>December 2021</strong></p>
               <p>Indigo Protocol v1 Mainnet Launch *</p>
             </div>
           </div>
