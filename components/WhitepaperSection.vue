@@ -14,7 +14,8 @@
           <p>
             Read more about the Indigo Protocol and how it fits in the DeFi Ecosystem of the Cardano blockchain. Tech docs are coming soon.
           </p>
-          <a href="/docs/whitepaper.pdf?v=0.2" class="btn btn-outline-light" target="_blank"> Download Whitepaper</a>
+          <a href="/docs/whitepaper.pdf?v=0.2" class="btn btn-outline-light m-1" target="_blank"> Download Whitepaper</a><br>
+          <a href="/docs/yellowpaper.pdf" class="btn btn-outline-light m-1" target="_blank">Download Yellowpaper</a>
         </div>
       </div>
     </div>

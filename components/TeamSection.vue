@@ -135,7 +135,7 @@
             </div>
             <div class="team-info">
               <h5 class="mb-0">Hai Nguyen Quang</h5>
-              <small>Core Developer</small>
+              <small>Technical Advisor</small>
               <p class="mt-2">
                 A passionate system architect and software engineer who is
                 always desperate to learn more. Specialized in functional

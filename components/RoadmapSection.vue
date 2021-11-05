@@ -8,9 +8,10 @@
           <div class="content-wrapper">
             <div class="line"></div>
             <div class="content">
-              <p><strong>August 2021</strong></p>
+              <p><strong>September 2021</strong></p>
               <p>Development of Smart Contracts</p>
               <p>Web App v2 Demo</p>
+              <p>Catalyst Fund 6 Entry</p>
             </div>
           </div>
         </li>
@@ -18,28 +19,20 @@
           <div class="content-wrapper">
             <div class="line"></div>
             <div class="content">
-              <p><strong>September 2021</strong></p>
-              <p>Partnership Announcements</p>
-              <p>Catalyst Fund 6 Entry</p>
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="content-wrapper">
-            <div class="line"></div>
-            <div class="content">
               <p><strong>October 2021</strong></p>
               <p>Code Review & Security Audits</p>
-              <p>Integration Development</p>
+              <p>Partnership Announcements</p>
             </div>
           </div>
         </li>
         <li>
           <div class="content-wrapper">
             <div class="line"></div>
+
             <div class="content">
               <p><strong>November 2021</strong></p>
-              <p>Indigo Protocol v1 Testnet Launch *</p>
+              <p>Integration Development</p>
+              <p>Wallet Integration on Web App</p>
             </div>
           </div>
         </li>
@@ -48,6 +41,15 @@
             <div class="line"></div>
             <div class="content">
               <p><strong>December 2021</strong></p>
+              <p>Indigo Protocol v1 Testnet Launch *</p>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="content-wrapper">
+            <div class="line"></div>
+            <div class="content">
+              <p><strong>January 2021</strong></p>
               <p>Indigo Protocol v1 Mainnet Launch *</p>
             </div>
           </div>
