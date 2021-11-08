@@ -49,7 +49,7 @@
           <div class="content-wrapper">
             <div class="line"></div>
             <div class="content">
-              <p><strong>January 2021</strong></p>
+              <p><strong>January 2022</strong></p>
               <p>Indigo Protocol v1 Mainnet Launch *</p>
             </div>
           </div>
