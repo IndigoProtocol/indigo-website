@@ -33,10 +33,16 @@
           </div>
           <div class="light-box p-3 mb-3">
             <p class="mb-0">
-              <strong>iAsset & INDY LP:</strong> We reward INDY to iAsset and
-              INDY LP stakers for their commitment to the liquidity pools,
-              essential to the whole ecosystem’s liquidity. Without them, it’s
-              not easy to do useful things with the minted iAssets.
+              <strong>iAsset LP:</strong> We reward INDY to iAsset LP stakers for their commitment to the iAssets LPs,
+              essential to the whole ecosystem’s liquidity. Without them, it’s not easy to do useful things with the
+              minted iAssets.
+            </p>
+          </div>
+          <div class="light-box p-3 mb-3">
+            <p class="mb-0">
+              <strong>INDY Stakers:</strong> We reward INDY to INDY stakers, who stake to participate in the governance
+              processes of the protocol. We need such incentive for more people to hold INDY, which in turn balances our
+              decentralized system. This prevents having a few whales who run the system.
             </p>
           </div>
           <div class="light-box p-3 mb-3">
